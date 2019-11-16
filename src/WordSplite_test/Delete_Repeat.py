@@ -1,7 +1,7 @@
+#coding=utf-8
+
 import Global_param
-#coding=utf-8  
 def Delete_Repeat():
- 
      f=open(Global_param.test_root+'test/result.txt')
      f1=open(Global_param.test_root+'test/train_date_set1.txt')
      f2=open(Global_param.test_root+'test/train_date_set1.txt')

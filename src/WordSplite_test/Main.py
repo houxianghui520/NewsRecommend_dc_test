@@ -1,3 +1,5 @@
+#coding=utf-8
+
 import Get_day_data
 import Get_keywords
 import Get_keynews

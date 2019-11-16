@@ -1,5 +1,6 @@
+#coding=utf-8
+
 import Global_param
-#coding=utf-8  
 def get_news_rate():
      fr = open(Global_param.train_set)
      fr1=open(Global_param.train_set)

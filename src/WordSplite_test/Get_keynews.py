@@ -1,5 +1,6 @@
+#coding=utf-8
+
 import Global_param
-#coding=utf-8  
 def Get_keynews(day):
     fr = open(Global_param.test_root+'test/key_words/keywords_%d.txt'%day)
     fr1 = open(Global_param.test_root+'test/train_date_set1/train_date_set1_%d.txt'%day)
